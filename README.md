@@ -4,7 +4,7 @@ Get an awesome blue butto.
 
 # Installation
 
-`npm i reflex --save`
+`npm i reflex-style-btn --save`
 
 Then...
 
